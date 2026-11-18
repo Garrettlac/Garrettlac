@@ -1,4 +1,4 @@
-# Garrett Edward Laconis
+# Garrett Laconis
 
 **Electrical Engineering · Infrastructure & Facilities · Power Systems**
 
