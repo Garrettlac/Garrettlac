@@ -5,8 +5,6 @@
 Texas A&M University | B.S. Electrical Engineering | December 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Garrett_Laconis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garrettla)
-[![Email](https://img.shields.io/badge/Email-laconisegarrett%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laconisegarrett@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-(832)_417--2701-34A853?style=for-the-badge&logo=googlephone&logoColor=white)](tel:+18324172701)
 
 I’m a graduating Electrical Engineering student with hands-on experience in electrical infrastructure, facilities engineering, power distribution, controls, and construction coordination.
 
